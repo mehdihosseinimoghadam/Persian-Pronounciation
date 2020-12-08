@@ -9,7 +9,7 @@ persianToBuckwalter("درود")
 >>> 'drvd'
 ```
 
-```
+```python
 buckwalterToPersian("drvd")
 >>> 'درود'
 ```
