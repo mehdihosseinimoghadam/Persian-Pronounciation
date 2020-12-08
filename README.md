@@ -1,15 +1,21 @@
 
-## Arabic Pronounce
+## Persian Pronounce
 
-This project is based on Dr. Nawar Halabi's work https://github.com/nawarhalabi/Arabic-Phonetiser. I am almost exaclty using the same code with just removing unneeded stuff and changing the format of the final output.
+Python Persian Pronounce is based on Dr. Nawar Halabi's work https://github.com/nawarhalabi/Arabic-Phonetiser. There are some slight changes like adding new characters such as ``` پ چ ژ ```. 
 
 ## Usage
 ```python
-from arabic_pronounce import phonetise
-
-phonetise("كلمةٌ")
->>> ['k l m t u1 n']
+persianToBuckwalter("درود")
+>>> 'drvd'
 ```
 
-## Test
-python -m pytest
+```
+buckwalterToPersian("drvd")
+>>> 'درود'
+```
+
+# Colab Link 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mehdihosseinimoghadam/Persian-Pronounciation/Persian_Pronounciation.ipynb )
+
+
