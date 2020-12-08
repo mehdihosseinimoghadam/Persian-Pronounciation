@@ -16,6 +16,6 @@ buckwalterToPersian("drvd")
 
 # Colab Link 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mehdihosseinimoghadam/blob/main/Persian-Pronounciation/Persian_Pronounciation.ipynb )
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mehdihosseinimoghadam/Persian-Pronounciation/blob/main/Persian_Pronounciation.ipynb )
 
 
